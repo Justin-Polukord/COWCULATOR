@@ -1,0 +1,2 @@
+# COWCULATOR
+These are the different versions of the COWCULATOR, my first ever independent project in R. I made it/them when I was still learning the basics so the methods are a little weird for R. I learned base R during the dark end of the pandemic so I was also playing a lot of minecraft at the time too. The COWCULATORs are functions/scripts used to calculate how many wheat I was would need to raise a certain number of cows. 
